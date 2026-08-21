@@ -1,0 +1,11 @@
+{
+  "name": "multi-tts-fish-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check index.js"
+  }
+}
